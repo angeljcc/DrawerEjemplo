@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActionBarEjemplo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="openDrawer">hola</string>
+    <string name="closeDrawer">adios</string>
+    <string name="menu_buscar">buscar</string>
+    <string name="menu_cortar">cortar</string>
+    <string name="menu_copiar">copiar</string>
+    <string name="menu_eliminar">eliminar</string>
+    <string name="menu_compartir">compartir</string>
+</resources>
